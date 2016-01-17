@@ -1,0 +1,35 @@
+"GameInfo"
+{
+	game		"Zombie Panic! Source"
+	"developer"	"Zombie Panic! Team"
+	"developer_url"	"http://www.zombiepanic.org"
+	"icon"		"zps"
+	"manual"	"http://www.zombiepanic.org/ZPSmanual.pdf"
+
+	type 	multiplayer_only
+	nomodels 0
+	nohimodel 1
+	nocrosshair 1
+	hidden_maps
+	{
+		"test_speakers"		1
+		"test_hardware"		1
+		"zpl_armory"		1
+		"zpl_armory2"		1
+	}
+	nodegraph 0
+
+	FileSystem
+	{
+		SteamAppId				17500		// GCF for Source SDK Base
+		ToolsAppId				211		// Tools will load this (ie: source SDK caches) to get things like materials\debug, materials\editor, etc.
+		
+		SearchPaths
+		{
+			Game				|gameinfo_path|.
+			Game				zpscustom
+			Game				zps
+			Game				|all_source_engine_paths|hl2
+		}
+	}
+}

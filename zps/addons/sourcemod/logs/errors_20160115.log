@@ -1,0 +1,7 @@
+L 01/15/2016 - 13:59:15: SourceMod error session started
+L 01/15/2016 - 13:59:15: Info (map "zpo_aquatica") (file "errors_20160115.log")
+L 01/15/2016 - 13:59:15: [SM] Plugin encountered error 25: Call was aborted
+L 01/15/2016 - 13:59:15: [SM] Native "SetFailState" reported: Database failure: Could not find Database conf "sourcebans"
+L 01/15/2016 - 13:59:15: [SM] Displaying call stack trace for plugin "sourcebans.smx":
+L 01/15/2016 - 13:59:15: [SM]   [0]  Line 209, C:\Users\Jimmah\Downloads\modriot\sourcemod\sourcemod-1.7.3-git5286-windows\addons\sourcemod\scripting-smlib\sourcebans.sp::OnPluginStart()
+L 01/15/2016 - 14:03:24: Error log file session closed.

@@ -1,0 +1,13 @@
+L 01/15/2016 - 13:02:03: SourceMod log file session started (file "L20160115.log") (Version "1.7.3-dev+5290")
+L 01/15/2016 - 13:02:03: -------- Mapchange to zpo_aquatica --------
+L 01/15/2016 - 13:57:56: [randomcycle.smx] RandomCycle has chosen zpo_harvest for the nextmap.
+L 01/15/2016 - 13:58:07: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 01/15/2016 - 13:58:54: [basecommands.smx] "Console<0><Console><Console>" refreshed the admin cache.
+L 01/15/2016 - 14:03:24: [SM] Changed map to "zpo_harvest"
+L 01/15/2016 - 14:03:24: -------- Mapchange to zpo_harvest --------
+L 01/15/2016 - 14:03:30: [randomcycle.smx] RandomCycle has chosen zps_asylum for the nextmap.
+L 01/15/2016 - 14:30:23: [mapchooser.smx] Voting for next map has started.
+L 01/15/2016 - 14:30:43: [mapchooser.smx] Voting for next map has finished. Nextmap: zps_thrillvile.
+L 01/15/2016 - 14:34:10: [SM] Changed map to "zps_thrillvile"
+L 01/15/2016 - 14:34:10: -------- Mapchange to zps_thrillvile --------
+L 01/15/2016 - 14:34:16: [randomcycle.smx] RandomCycle has chosen zpo_aquatica for the nextmap.
